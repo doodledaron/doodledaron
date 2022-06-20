@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doodledaron
-- 👀 I’m interested in coding and creative stuff. I even like drawing
+- 👀 I’m interested in coding and creative stuff. 
 - 🌱 I’m currently learning Foundation in Information Technology
 - 📫 How to reach me : @doodledaron@gmail.com
 
