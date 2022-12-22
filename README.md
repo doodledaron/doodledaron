@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doodledaron
 - 👀 I’m interested in coding and creative stuff. 
-- 🌱 I’m currently learning Foundation in Information Technology
+- 🌱 I’m currently learning Degree in Computer Sciece
 - 📫 How to reach me : @doodledaron@gmail.com
 
 <!---
