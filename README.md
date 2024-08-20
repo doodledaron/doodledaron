@@ -1,7 +1,11 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Daron 👋
 
 ## About Me
-[Brief introduction about yourself, your interests, and your field of work/study]
+Hi I'm Daron from Malaysia. ;)
+
+Currently a student studying CompSci
+
+I'm juggling between WebDev, Blockchain Technology, and AI :))
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
